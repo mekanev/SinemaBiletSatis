@@ -1,0 +1,15 @@
+C:\Users\melik\source\repos\Satis\Satis\bin\Debug\Satis.exe.config
+C:\Users\melik\source\repos\Satis\Satis\bin\Debug\Satis.exe
+C:\Users\melik\source\repos\Satis\Satis\bin\Debug\Satis.pdb
+C:\Users\melik\source\repos\Satis\Satis\obj\Debug\Satis.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\Satis\Satis\obj\Debug\Satis.Form1.resources
+C:\Users\melik\source\repos\Satis\Satis\obj\Debug\Satis.Properties.Resources.resources
+C:\Users\melik\source\repos\Satis\Satis\obj\Debug\Satis.csproj.GenerateResource.cache
+C:\Users\melik\source\repos\Satis\Satis\obj\Debug\Satis.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\Satis\Satis\obj\Debug\Satis.exe
+C:\Users\melik\source\repos\Satis\Satis\obj\Debug\Satis.pdb
+C:\Users\melik\source\repos\Satis\Satis\obj\Debug\Satis.SalonEkle.resources
+C:\Users\melik\source\repos\Satis\Satis\obj\Debug\Satis.FilmEkle.resources
+C:\Users\melik\source\repos\Satis\Satis\obj\Debug\Satis.SeansEkle.resources
+C:\Users\melik\source\repos\Satis\Satis\obj\Debug\Satis.SeansListele.resources
+C:\Users\melik\source\repos\Satis\Satis\obj\Debug\Satis.Satislar.resources
